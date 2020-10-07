@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prufung</string>
+    <string name="Title">Title</string>
+    <string name="Author">Author</string>
+    <string name="Pages">Seiten</string>
+    <string name="Photo">PhotoUrl</string>
+    <string name="Description">Beschreibung</string>
+    <string name="Editorial">Editorial</string>
+</resources>

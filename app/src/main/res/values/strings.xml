@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen2</string>
+    <string name="Title">title</string>
+    <string name="Author">author</string>
+    <string name="Pages">pages</string>
+    <string name="Photo">photoUrl</string>
+    <string name="Description">description</string>
+    <string name="Editorial">editorial</string>
+</resources>
